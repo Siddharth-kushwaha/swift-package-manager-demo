@@ -14,6 +14,6 @@ let package = Package(
         .binaryTarget(
             name: "MapmyIndiaSafetyPlugin",
             url: "https://mmi-api-team.s3.amazonaws.com/moveSDK/ios/MapmyIndiaSafetyPlugin/MapmyIndiaSafetyPlugin-1.1.0.zip",
-            checksum: "e173fa59c6789ee21c890155193a16e88e37723826eafdbfa5c3893c1212463d")
+            checksum: "ff247a40bc8515124bae62549dcaec791bd29209e635babea30098c06e90bf2a")
     ]
 )
